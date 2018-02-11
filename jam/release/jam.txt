@@ -1,0 +1,11 @@
+-*-   Jam   *   Copyright (c) Gazlan, 2015   -*-
+
+Textfile whitespace jammer
+
+Usage: jam.com [switches] wildcards
+
+Switches:
+   +t  - Keep tabs
+   -e  - Remove empty lines
+
+complains_n_suggestions direct to gazlan@yandex.ru
